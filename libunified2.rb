@@ -1,7 +1,7 @@
 class Libunified2 < Formula
     homepage "https://github.com/wtfbbqhax/libunified2"
     url "https://github.com/wtfbbqhax/libunified2/releases/download/v0.0.7/libunified2-0.0.7.tar.gz"
-    sha256 "ebda027d9502d71d3b1e5627bac171362338d91e548b516be88a77fd2a114a3e"
+    sha256 "95c7ff3d15973abfdf744c252ad2f3d984792c28f9f46e89e90a91a0dd672f0a"
     revision 1
 
     def install
